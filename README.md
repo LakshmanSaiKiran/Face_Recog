@@ -17,10 +17,10 @@ Displaying bounding boxes and labels for recognized faces
 In the project directory, you can run:
 
 ### Clone the project repository:
-### `git clone https://github.com/Chiru2123/FaceRecog-master`
+### `git clone https://github.com/LakshmanSaiKiran/Face_Recog`
 
 ### Install dependencies:
-### `cd FaceRecog-master`
+### `cd FaceRecog`
 ### `npm install`
 
 ### Start the development server:
